@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌟 Pronouns: She/her
 - 🎓 Recent graduate with a BS in Computer Science
 - ⚡ Fun fact: I love to travel and cook 👩🏻‍🍳! 
-### 👁I’m looking for a job opportunity!
+### 👁 I’m currently looking for a job opportunity!
 <!--- - 📝 I recently picked up blooging. Visit DEV or Medium for my articles) -->
 #
 ### Contact Me
