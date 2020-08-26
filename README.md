@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://cecilialuna.com">![Website Logo](/icons/icons8-location-48.png)
 
 ### Languages and Tools
-![VSCode Logo](/icons/icons8-visual-studio-code-2019-48.png)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="vs code" title="vscode"  src="/icons/icons8-visual-studio-code-2019-48.png" width="40px" >](https://code.visualstudio.com/)
 ![JavaScript Logo](/icons/icons8-javascript-48.png)
 ![Java Logo](/icons/icons8-java-48.png)
 ![React](/icons/icons8-react-40.png)
