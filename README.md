@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 ![PyCharm Logo](/icons/icons8-pycharm-48.png)
 ![Bash](/icons/icons8-console-40.png)
 
-
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilialuna11&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
