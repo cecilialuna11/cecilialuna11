@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 🎓 Recent graduate with a BS in Computer Science
 - ⚡ Fun fact: I love to travel and cook 👩🏻‍🍳! 
 #
+### Contact Me
+![Twitter Logo](/icons/icons8-twitter-144.png)
+![Instagram Logo](/icons/icons8-instagram-48.png)
+![Linkedin Logo](/icons/icons8-linkedin-48.png)
+![Website Logo](/icons/icons8-location-48.png)
 
 ### Languages and Tools
 ![VSCode Logo](/icons/icons8-visual-studio-code-2019-48.png)
@@ -28,6 +33,8 @@ Here are some ideas to get you started:
 ![Git Logo](/icons/icons8-git-48.png)
 ![PyCharm Logo](/icons/icons8-pycharm-48.png)
 ![Bash](/icons/icons8-console-40.png)
+![Firebase Logo](/icons/icons8-firebase-48.png)
+![IOS Logo](/icons/icons8-ios-app-icon-shape-48.png)
 
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilialuna11&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
