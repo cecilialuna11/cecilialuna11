@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 #
 ### Contact Me
 <a href="https://twitter.com/_cecilialuna">![Twitter Logo](/icons/icons8-twitter-squared-48.png)
-![Instagram Logo](/icons/icons8-instagram-48.png)
-![Linkedin Logo](/icons/icons8-linkedin-48.png)
-![Website Logo](/icons/icons8-location-48.png)
+<a href="https://www.instagram.com/code.nomad/">![Instagram Logo](/icons/icons8-instagram-48.png)
+<a href="https://www.linkedin.com/in/cecilia-banales-luna/">![Linkedin Logo](/icons/icons8-linkedin-48.png)
+<a href="https://cecilialuna.com">![Website Logo](/icons/icons8-location-48.png)
 
 ### Languages and Tools
 ![VSCode Logo](/icons/icons8-visual-studio-code-2019-48.png)
