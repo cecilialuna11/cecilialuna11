@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/cecilia-banales-luna/">![Linkedin Logo](/icons/icons8-linkedin-48.png)
 <a href="https://cecilialuna.com">![Website Logo](/icons/icons8-location-48.png)
 
+#
 ### Languages and Tools
 ![VSCode Logo](/icons/icons8-visual-studio-code-2019-48.png)
 ![JavaScript Logo](/icons/icons8-javascript-48.png)
