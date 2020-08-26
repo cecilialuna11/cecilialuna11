@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://cecilialuna.com">![Website Logo](/icons/icons8-location-48.png)
 
 ### Languages and Tools
-<img src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>
+[<img src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>](https://code.visualstudio.com/)
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/50/000000/javascript.png"/>
 <img src="https://img.icons8.com/office/16/000000/react.png"/>
