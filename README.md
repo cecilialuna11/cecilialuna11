@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilialuna11&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+##### <a href=https://icons8.com/icons">Icons by Icons8</a>
