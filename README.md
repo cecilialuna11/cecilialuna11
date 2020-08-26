@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to travel and cook 👩🏻‍🍳! 
 #
 ### Contact Me
-<a href="https://twitter.com/_cecilialuna">![Twitter Logo](/icons/icons8-twitter-squared-48.png)
-<a href="https://www.instagram.com/code.nomad/">![Instagram Logo](/icons/icons8-instagram-48.png)
-<a href="https://www.linkedin.com/in/cecilia-banales-luna/">![Linkedin Logo](/icons/icons8-linkedin-48.png)
-<a href="https://cecilialuna.com">![Website Logo](/icons/icons8-location-48.png)
+[<img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>]twitter]
+[<img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>][instagram]
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img src="https://img.icons8.com/color/48/000000/worldwide-location.png"/>][website]
 
 ### Languages and Tools
 [<img src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>](https://code.visualstudio.com/)
@@ -41,3 +41,8 @@ Here are some ideas to get you started:
 
 
 [Icons by Icons8](https://icons8.com/icons)
+
+[website]: https://cecilialuna.com
+[twitter]: https://twitter.com/_cecilialuna
+[instagram]: https://www.instagram.com/code.nomad/
+[linkedin]: https://www.linkedin.com/in/cecilia-banales-luna/
