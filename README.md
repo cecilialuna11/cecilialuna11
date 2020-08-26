@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to travel and cook 👩🏻‍🍳! 
 #
 ### Contact Me
-[<img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>[twitter]
+[<img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>][twitter]
 [<img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>][instagram]
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img src="https://img.icons8.com/color/48/000000/worldwide-location.png"/>][website]
