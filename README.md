@@ -20,20 +20,20 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 [<img src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>](https://code.visualstudio.com/)
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/50/000000/javascript.png"/>
-<img src="https://img.icons8.com/office/16/000000/react.png"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/officel/40/000000/console.png"/>
-<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>](https://www.java.com/en/)
+[<img src="https://img.icons8.com/color/50/000000/javascript.png"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://img.icons8.com/office/16/000000/react.png"/>](https://reactjs.org)
+[<img src="https://img.icons8.com/color/48/000000/react-native.png"/>](https://reactnative.dev)
+[<img src="https://img.icons8.com/color/48/000000/vue-js.png"/>](https://vuejs.org)
+[<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>](https://nodejs.org/en/)
+[<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>](https://www.mongodb.com)
+[<img src="https://img.icons8.com/color/48/000000/python.png"/>](https://www.python.org)
+[<img src="https://img.icons8.com/color/48/000000/css3.png"/>](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
+[<img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/>](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img src="https://img.icons8.com/color/48/000000/git.png"/>](https://git-scm.com)
+[<img src="https://img.icons8.com/officel/40/000000/console.png"/>](https://www.gnu.org/software/bash/)
+[<img src="https://img.icons8.com/color/48/000000/firebase.png"/>](https://firebase.google.com)
+[<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>](https://www.jetbrains.com/pycharm/)
 
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilialuna11&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
