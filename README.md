@@ -38,6 +38,20 @@ Here are some ideas to get you started:
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilialuna11&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+#
+
+<img align="left" alt="Cecilias's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cecilialuna11&show_icons=true&hide_border=true" />
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 [Icons by Icons8](https://icons8.com/icons)
