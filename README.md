@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 #
 
 ### Languages and Tools
+![VSCode Logo](/icons/icons8-visual-studio-code-2019-48.png)
 
 
