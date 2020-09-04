@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [<img src="https://img.icons8.com/color/48/000000/firebase.png"/>](https://firebase.google.com)
 [<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>](https://www.jetbrains.com/pycharm/)
 
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilialuna11&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
