@@ -4,12 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a mobile application!
-- 🌱 I’m currently learning by creating projects in Java, JavaScript, Python!
+- 🔭 I’m currently working on a improving my UX design skills!
+- 🌱 I’m currently creating projects with MERN stack!
 - 🌟 Pronouns: She/her
-- 🎓 Recent graduate with a BS in Computer Science
+- 🎓 BS in Computer Science (May 2020)
 - ⚡ Fun fact: I love to travel and cook 👩🏻‍🍳! 
-### 👁 I’m currently looking for a job opportunity!
 <!--- - 📝 I recently picked up blooging. Visit DEV or Medium for my articles) -->
 #
 ### Contact Me
