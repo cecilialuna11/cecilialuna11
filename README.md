@@ -4,18 +4,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a improving my UX design skills!
+- 🔭 I’m currently working on my UI/UX design skills!
 - 🌱 I’m currently creating projects with MERN stack!
 - 🌟 Pronouns: She/her
 - 🎓 BS in Computer Science (May 2020)
 - ⚡ Fun fact: I love to travel and cook 👩🏻‍🍳! 
+- GITHUB: Currently under construction, I am working on upgrading and uploadign quality projects.
 <!--- - 📝 I recently picked up blooging. Visit DEV or Medium for my articles) -->
+
 #
 ### Contact Me
 [<img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>][twitter]
 [<img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>][instagram]
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img src="https://img.icons8.com/color/48/000000/worldwide-location.png"/>][website]
+<!-- [<img src="https://img.icons8.com/color/48/000000/worldwide-location.png"/>][website] -->
 
 ### Languages and Tools
 [<img src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>](https://code.visualstudio.com/)
@@ -58,7 +60,7 @@ NOTE: Top languages/github stats do not indicate my skill level or proficiency, 
 
 [Icons by Icons8](https://icons8.com/icons)
 
-[website]: https://cecilialuna.com
+<!-- [website]: https://cecilialuna.com -->
 [twitter]: https://twitter.com/_cecilialuna
 [instagram]: https://www.instagram.com/code.nomad/
 [linkedin]: https://www.linkedin.com/in/cecilia-banales-luna/
