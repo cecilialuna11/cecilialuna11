@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌟 Pronouns: She/her
 - 🎓 BS in Computer Science (May 2020)
 - ⚡ Fun fact: I love to travel and cook 👩🏻‍🍳! 
-- GITHUB: Currently under construction, I am working on upgrading and uploadign quality projects.
+- GITHUB: Currently under construction, I am working on creating quality projects I am proud to display.
 <!--- - 📝 I recently picked up blooging. Visit DEV or Medium for my articles) -->
 
 #
