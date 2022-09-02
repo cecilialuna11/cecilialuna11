@@ -1,11 +1,9 @@
 ### Hi there, I am Cecilia -aka Cece 👋
 
-## I'm a Full-Stack Developer/Engineer, addicted to learning and creating ⚡
+## I'm a Mobile Developer/Engineer, addicted to learning and creating ⚡
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my UI/UX design skills!
-- 🌱 I’m currently creating projects with MERN stack!
 - 🌟 Pronouns: She/her
 - 🎓 BS in Computer Science (May 2020)
 - ⚡ Fun fact: I love to travel and cook 👩🏻‍🍳! 
